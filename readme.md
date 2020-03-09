@@ -6,4 +6,4 @@ Start Application
 
 -- node app.js
 
-Application Run at :http://localhost:3000
+Application Run On :http://localhost:3000
